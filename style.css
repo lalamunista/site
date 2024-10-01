@@ -3,6 +3,8 @@ body{
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(172,148,233,1) 98%);
 }
  header {
+
     display:flex;
     justify-content: center;
+    list-style: none;
  }
