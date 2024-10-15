@@ -6,5 +6,20 @@ body{
 
     display:flex;
     justify-content: center;
+
+ }
+
+ .nav-lista {
+    display:flex;
     list-style: none;
+    font-size: 40px;
+    color: blueviolet;
+    gap: 28px;
+    text-transform: uppercase;
+ }
+
+ .nav-item:hover {
+    cursor: pointer;
+    background-color: azure;
+    color: antiquewhite;
  }
